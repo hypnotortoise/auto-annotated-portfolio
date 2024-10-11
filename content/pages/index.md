@@ -10,6 +10,38 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: Coming Soon
+    subtitle: "Stay Tuned \U0001F9F6"
+    styles:
+      self:
+        height: screen
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -76,36 +108,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Coming Soon
-    subtitle: "Stay Tuned \U0001F9F6"
-    styles:
-      self:
-        height: screen
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
 ---
