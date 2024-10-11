@@ -105,7 +105,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: row
         borderRadius: small
         borderWidth: 1
         borderStyle: dashed
