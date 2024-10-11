@@ -18,7 +18,7 @@ sections:
     styles:
       self:
         height: screen
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
