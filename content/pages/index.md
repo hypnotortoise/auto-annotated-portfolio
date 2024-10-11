@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Coming Soon
-    subtitle: 'Stay Tuned '
+    subtitle: "Stay Tuned \U0001F9F6"
     styles:
       self:
         height: auto
