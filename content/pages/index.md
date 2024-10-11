@@ -45,7 +45,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Say Hi
+    title: "Say Hi \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
