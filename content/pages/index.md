@@ -107,6 +107,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: small
+        borderWidth: 1
       title:
         textAlign: left
       text:
