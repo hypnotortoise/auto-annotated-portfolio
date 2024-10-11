@@ -17,7 +17,7 @@ sections:
     subtitle: "Stay Tuned \U0001F9F6"
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
