@@ -108,6 +108,7 @@ sections:
         flexDirection: row
         borderRadius: small
         borderWidth: 1
+        borderStyle: dashed
       title:
         textAlign: left
       text:
