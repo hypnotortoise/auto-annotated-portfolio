@@ -13,11 +13,6 @@
                 "label": "Info",
                 "url": "/info",
                 "showIcon": true
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
